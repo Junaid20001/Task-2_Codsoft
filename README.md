@@ -1,2 +1,2 @@
 # Task-2_Codsoft
-Todo App
+Internship Task Todo App
